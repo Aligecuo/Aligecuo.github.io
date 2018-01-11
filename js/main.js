@@ -3,7 +3,7 @@
  */
 if (!!$.prototype.justifiedGallery) {
   var options = {
-    rowHeight: 140,
+    rowHeight: 280,
     margins: 4,
     lastRow: 'justify'
   };
